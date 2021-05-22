@@ -1,0 +1,14 @@
+body {
+    background-color:silver;
+    color: rgb(4, 73, 73);
+}
+
+.container{
+    background-color: cornsilk;
+    margin-top: 25px;
+}
+.s{
+    background: url("../images/blogarticle.jpg") repeat scroll center center / cover;
+    height: 200vh;
+    width: 100%;
+}
